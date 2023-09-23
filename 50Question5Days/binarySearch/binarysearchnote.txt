@@ -1,0 +1,9 @@
+when we have to find minimum
+then 
+
+if(caculated > given){
+	l = mid+1
+}
+else{
+	r= mid-1;
+}
